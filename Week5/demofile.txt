@@ -1,0 +1,2 @@
+This is a new ;ome!This is a new line!This is a new line!
+This is a second line added to demofile.txt!This is the third line added to demofile.txt
